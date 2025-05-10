@@ -18,7 +18,7 @@ body {
 	margin:0 auto;
 	padding: 0;
 	background: gray;	
-	color: red; 
+	color: rgb(13, 12, 12); 
 	font: normal 1em Arial, sans-serif;  /* Mindestschriftgröße wird dem Browser, bzw. dem Nutzer überlassen! */
                     
 }
