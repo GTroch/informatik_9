@@ -17,7 +17,7 @@ body {
 	max-width: 75em;
 	margin:0 auto;
 	padding: 0;
-	background: yellow;	
+	background: gray;	
 	color: red; 
 	font: normal 1em Arial, sans-serif;  /* Mindestschriftgröße wird dem Browser, bzw. dem Nutzer überlassen! */
                     
@@ -292,4 +292,3 @@ nav a[aria-current=page]{
   .spalte img {
      width: 33%;
   } 
-}
